@@ -134,11 +134,10 @@
               <li><a href = "https://www.nfmovies.com/">🐿️全网电影动漫美剧在线看</a></li>
               <li><a href = "https://mirrors.yuntu.ca/shadowsocksr/">✈️小飞机多平台合集</a></li>
               <li><a href = "https://cmwtat.cloudmoe.com/cn.html">Windows 激活工具</a></li>
-           </ul>
-      </div>
+          
  
             <div>
-<!--         <p class="slogan" style="color:LightSteelRed">隐藏淘宝优惠卷更新汇总TG群👇 <br>http://t.me/taobaojuan</p> -->
+
                <li class="item">
           <a href="https://t.me/pojieapp" target="_blank">
             <span style="font-size: 1.1em; color: #FF0088"> 频道🥇吾爱资源 | 薅羊毛·省钱中心🅥（19k+订阅🔥）点击进入频道 需要翻Qiang</span>
