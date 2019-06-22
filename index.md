@@ -49,6 +49,7 @@
 <body>
   <div class="Wrapper">
     <div class="Content content-home text-center">
+      <h1 id="title" text="持家老铁 の 羊毛站">持家老铁 の 羊毛站</h1>
       <ul class="text-center nav">
         <li class="item">
           <a href="http://zaiquan.cc" target="_blank">
