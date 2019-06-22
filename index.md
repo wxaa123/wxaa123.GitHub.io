@@ -15,6 +15,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="持家老铁电报">
   <meta name="twitter:description" content="持家老铁 的羊毛站">
+  <link rel="icon" href="https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1623061258.jpg">
   <link href="/css/styles.css" rel="stylesheet">
   <style type="text/css">
     * {
