@@ -15,7 +15,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="持家老铁电报">
   <meta name="twitter:description" content="持家老铁 的羊毛站">
-  <link href="/css/style.css" rel="stylesheet">
+  <link href="/css/styles.css" rel="stylesheet">
   <style type="text/css">
     * {
       margin: 0;
