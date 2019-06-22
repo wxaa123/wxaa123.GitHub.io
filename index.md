@@ -52,7 +52,7 @@
         <img src="images/avast_gaitubao.jpg" alt="" />
     </a>
    
-    <h1 id="title" text="持家老铁 の 羊毛站">持家老铁 の 羊毛站</h1>
+    <h1 id="title" text="好棒 の 羊毛站">好棒 の 羊毛站</h1>
 
 
     <ul class="text-center nav">
@@ -86,7 +86,7 @@
        <span style="font-size: 1.0em; color: red">点击进入褥羊毛情报见闻社QQ群：957661040 </span>
       </a>
      </li>
-<li><a href = ""><span style="font-size: 1.1em; color: #FF5511">小火箭 Shadowrocket6月19号 ⚠️登陆AppStore不是icloud</a></li>
+<li><a href = ""><span style="font-size: 1.1em; color: #FF5511">小火箭 Shadowrocket6月19号 ⚠️登陆AppStore不是icloud
 <table border="1">
   <tr>
     <th>账号</th>
