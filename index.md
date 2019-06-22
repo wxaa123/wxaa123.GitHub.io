@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html lang="zh-cn">
 <head>
   <meta charset="utf-8">
@@ -10,12 +9,11 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="持家老铁">
   <meta property="og:url" content="https://zaiquan.cc">
-  <meta property="og:site_name" content="coderykw">
+  <meta property="og:site_name" content="wxaa123">
   <meta property="og:description" content="持家老铁频道">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="持家老铁电报">
   <meta name="twitter:description" content="持家老铁 的羊毛站">
-  <link rel="icon" href="https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1623061258.jpg">
   <link href="/css/styles.css" rel="stylesheet">
   <style type="text/css">
     * {
@@ -50,43 +48,44 @@
 <body>
  <div class="Wrapper">
   <div class="Content content-home text-center">
-    <a class="avast" href="/">
+    <a class="avast_gaitubao" href="/">
         <img src="images/avast_gaitubao.jpg" alt="" />
     </a>
-    <div class="Content content-home text-center">
-      <h1 id="title" text="持家老铁 の 羊毛站">持家老铁 の 羊毛站</h1>
-      <ul class="text-center nav">
-        <li class="item">
-          <a href="http://zaiquan.cc" target="_blank">
-            <span style="font-size: 1.4em; color: #FF0088"> 淘宝全网福利优惠领取</span>
-          </a>
-          <span>|</span>
-        </li>
-        <li class="item">
-                   <a href="http://zaiquan.cc/index.php?input=2&r=l&kw=%E9%9B%B6%E9%A3%9F">全网搜优惠</a>
+   
+    <h1 id="title" text="好棒 の 羊毛站">好棒 の 羊毛站</h1>
+<!--       #00FFCC -->
 
-        </li>
-      </ul>
+    <ul class="text-center nav">
+     <li class="item">
+      <a href="http://zaiquan.cc" target="_blank">
+       <span style="font-size: 1.4em; color: #FF0088"> 淘宝全网福利优惠领取</span>
+      </a>
+      <span>|</span>
+     </li>
+     <li class="item">
+                <a href="http://zaiquan.cc/index.php?input=2&r=l&kw=%E9%9B%B6%E9%A3%9F">全网搜优惠</a>
+
+     </li>
+    </ul>
 
 
 
-      <div>
-       
-        <li class="item">
-          <a href="https://t.me/luyangmaogroup" target="_blank">
-            <span style="font-size: 1.3em; color: #FF0088">  银行电商外卖平台撸羊毛电报频道（3.3K+订阅🔥）</span>
-          </a>
+    <div>
+     <li class="item">
+      <a href="https://t.me/luyangmaogroup" target="_blank">
+       <span style="font-size: 1.3em; color: #FF0088">  银行电商外卖平台撸羊毛电报频道（3.3K+订阅🔥）</span>
+      </a>
     
-	      <li class="item">
-          <a href="https://miniature-instant-furniture-song.trycloudflare.com" target="_blank">
-            <span style="font-size: 1.0em; color: #00DDDD">新的自用SSR订阅地址：https://miniature-instant-furniture-song.trycloudflare.com 右键复制链接即可</span>
-          </a>
-        </li>
-         <li class="item">
-          <a href="https://jq.qq.com/?_wv=1027&k=5ZvTPTy" target="_blank">
-            <span style="font-size: 1.0em; color: red">点击进入褥羊毛情报见闻社QQ群：957661040 </span>
-          </a>
-        </li>
+     <li class="item">
+      <a href="https://miniature-instant-furniture-song.trycloudflare.com" target="_blank">
+       <span style="font-size: 1.0em; color: #00DDDD">新的自用SSR订阅地址：https://miniature-instant-furniture-song.trycloudflare.com 右键复制链接即可</span>
+      </a>
+     </li>
+     <li class="item">
+      <a href="https://jq.qq.com/?_wv=1027&k=5ZvTPTy" target="_blank">
+       <span style="font-size: 1.0em; color: red">点击进入褥羊毛情报见闻社QQ群：957661040 </span>
+      </a>
+     </li>
 <li><a href = ""><span style="font-size: 1.1em; color: #FF5511">小火箭 Shadowrocket6月19号 ⚠️登陆AppStore不是icloud</a></li>
 <table border="1">
   <tr>
