@@ -50,7 +50,7 @@
  <div class="Wrapper">
   <div class="Content content-home text-center">
     <a class="avast" href="/">
-        <img src="images/avast.jpg" alt="" />
+        <img src="images/avast_gaitubao.jpg" alt="" />
     </a>
     <div class="Content content-home text-center">
       <h1 id="title" text="持家老铁 の 羊毛站">持家老铁 の 羊毛站</h1>
