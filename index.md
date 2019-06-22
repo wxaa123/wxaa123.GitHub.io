@@ -115,7 +115,7 @@
 
 </table>
              							
-<a href="sub://aHR0cHM6Ly9taW5pYXR1cmUtaW5zdGFudC1mdXJuaXR1cmUtc29uZy50cnljbG91ZGZsYXJlLmNvbQ">iOS安装小火箭后点击这里直接添加订阅</a>
+<li><a href="sub://aHR0cHM6Ly9taW5pYXR1cmUtaW5zdGFudC1mdXJuaXR1cmUtc29uZy50cnljbG91ZGZsYXJlLmNvbQ">iOS安装小火箭后点击这里直接添加订阅</a>
 </li>
            <li><a href = "https://jq.qq.com/?_wv=1027&k=5yRZwzM">持家老铁福利资源QQ群：834275266（限时免费进）</a></li>
 	       <li><a href = "https://t.me/TByangmao">精选淘宝优惠卷电报频道（点击进入频道 需要翻Qiang）</a></li>
