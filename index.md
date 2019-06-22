@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-cn">
 <head>
   <meta charset="utf-8">
@@ -53,7 +53,7 @@
     </a>
    
     <h1 id="title" text="好棒 の 羊毛站">好棒 の 羊毛站</h1>
-<!--       #00FFCC -->
+
 
     <ul class="text-center nav">
      <li class="item">
