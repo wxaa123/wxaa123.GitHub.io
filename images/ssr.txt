@@ -3,7 +3,7 @@ tg://socks?server=133.223.68.60&port=41034&user=233blog&pass=cloud.nima.ma
 tg://socks?server=133.186.217.239&port=36883&user=233blog&pass=cloud.nima.ma
 tg://socks?server=133.186.132.100&port=61484&user=cloud.nima.ma&pass=cloud.nima.ma
 
-以上四条电报telegram代理，无网有代理也能正常使用电报telegram，没下载的可以下载电报玩玩，非常不错。
+以上四条电报telegram代理，无网有代理也能正常使用电报telegram，没下载的可以下载电报玩玩，非常不错，代理不会用的自己百度吧。
 老铁电报tg群：https://t.me/luyangmaogroup ，会第一时间更新公益免费代理，没进群的速度进群吧。下面是vmess和ssr代理，需要的科学上网的去更新节点吧。
 
 vmess://YXV0bzoyMmRlZWVjZi1kOTk4LTNmMmQtOWI5ZS0zNjBkMTA3N2FkOWRAaHouY2Zjbi54eXo6NDQz?remarks=1%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8hm2019721@gmail.com&obfsParam=s160.haierzykt.top&path=/panel&obfs=websocket&tls=1
